@@ -1,0 +1,13 @@
+{
+  "name": "extract-api",
+  "version": "1.0.0",
+  "description": "Paid text extraction API with x402 payment stub",
+  "main": "service.js",
+  "scripts": {
+    "start": "node service.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
